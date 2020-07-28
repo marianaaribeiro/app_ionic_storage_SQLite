@@ -1,0 +1,7 @@
+{
+  "name": "blogLive",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
